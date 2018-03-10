@@ -20,5 +20,3 @@
 Чтобы воспользоваться стилем скачайте <a href="https://cdn.rawgit.com/Jatvyag/GOST-Citavi-Citation-Style/master/docs/%D0%A1%D0%A2%D0%91%207.208-2008%20(Numbers).ccs" download>СТБ 7.208-2008 (Numbers)</a> и скопируйте его в папку Custom Citation Styles директории Citavi 6.
 
 Затем в программе Citavi 6 во вкладке Citation можно выбрать однаименный стиль в Citation Style. 
-
-Стиль <a href="https://cdn.rawgit.com/Jatvyag/GOST-Citavi-Citation-Style/master/docs/%D0%A1%D0%A2%D0%91%207.208-2008%20(Numbers).ccs" download>СТБ 7.208-2008 (Numbers)</a> совместим с Citavi 6.
