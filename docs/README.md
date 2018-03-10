@@ -16,3 +16,5 @@
 Затем во вкладке Citation можно выбрать однаименный стиль в Citation Style. 
 
 Стиль СТБ 7.208-2008 (Numbers) совместим с Citavi 6. Список литературы формируется по мере упоминания. 
+
+<a href="GOST-Citavi-Citation-Style/docs/СТБ 7.208-2008 (Numbers).ccs" download>Download</a>
