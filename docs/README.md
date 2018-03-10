@@ -1,6 +1,3 @@
-<head>
- <script async defer src="https://buttons.github.io/buttons.js"></script> 
-</head>
 # GOST-Citavi-Citation-Style
 <body>
 В настоящем проекте содержится стиль оформления библиографии для Citavi.
@@ -21,7 +18,7 @@
 
 Стиль СТБ 7.208-2008 (Numbers) совместим с Citavi 6. Список литературы формируется по мере упоминания. 
 
-<a href="docs/STB_7.208-2008_(Numbers).ccs" download>Download</a>
+<a href="https://github.com/jatvyag/GOST-Citavi-Citation-Style/archive/docs/STB_7.208-2008_(Numbers).ccs" download>Download</a>
 
 <a class="github-button" href="https://github.com/jatvyag/GOST-Citavi-Citation-Style/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download jatvyag/GOST-Citavi-Citation-Style on GitHub">Download</a>
 </body>
