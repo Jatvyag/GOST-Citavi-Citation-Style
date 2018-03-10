@@ -18,7 +18,7 @@
 
 Стиль СТБ 7.208-2008 (Numbers) совместим с Citavi 6. Список литературы формируется по мере упоминания. 
 
-<a href="https://github.com/jatvyag/GOST-Citavi-Citation-Style/archive/docs/STB_7.208-2008_(Numbers).ccs" download>Download</a>
+<a href="https://raw.githubusercontent.com/Jatvyag/GOST-Citavi-Citation-Style/master/docs/%D0%A1%D0%A2%D0%91%207.208-2008%20(Numbers).ccs" download>Download</a>
 
 <a class="github-button" href="https://github.com/jatvyag/GOST-Citavi-Citation-Style/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download jatvyag/GOST-Citavi-Citation-Style on GitHub">Download</a>
 </body>
