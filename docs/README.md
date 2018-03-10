@@ -17,4 +17,4 @@
 
 Стиль СТБ 7.208-2008 (Numbers) совместим с Citavi 6. Список литературы формируется по мере упоминания. 
 
-<a href="docs/СТБ 7.208-2008 (Numbers).ccs" download>Download</a>
+<a href="docs/STB_7.208-2008_(Numbers).ccs" download>Download</a>
