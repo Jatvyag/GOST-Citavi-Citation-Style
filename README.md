@@ -1,4 +1,4 @@
-# Citavi Citation Style - GOST
+# Citavi Citation Style
 
 В настоящем проекте содержится стиль оформления библиографии для Citavi 6.
 
