@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 show_downloads: true
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jatvyag/GOST-Citavi-Citation-Style/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download jatvyag/GOST-Citavi-Citation-Style on GitHub">Download</a>
